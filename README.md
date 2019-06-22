@@ -57,14 +57,13 @@ Takeaway
 - TensorFlow, System Generate the whole graph before running it ,used for distributed compution, and Production and is best suited for Beginners
 
 
-
-
 * Tensors : the Data Structure of PyTorch
-* NumPy : 
-* AutoGrad : 
-* Gradients for Training Neural Network : 
-* Validation : 
-* Transfer Learning : 
+* NumPy : [NumPy Explained](https://youtu.be/Tkv45wgxlEU) Its a Wrapper around C , Fortran Class , array and Matrices implementation similar to MATLAB
+
+* AutoGrad : --- 
+* Gradients for Training Neural Network :  ---
+* Validation : ---
+* Transfer Learning : --- 
 
 
 ### Setting up a Notebook (Cloud)
@@ -73,6 +72,12 @@ Don't want to Heat up your Machine here are the Solution:
 * [Source Code Github Repo](https://github.com/udacity/deep-learning-v2-pytorch)
 
 * [Using Azure Notebook](https://blogs.msdn.microsoft.com/uk_faculty_connection/2019/02/12/using-pytorch-with-azure/)
+
+* [Using Google Colab](https://colab.research.google.com)
+
+
+
+
  
 
 
