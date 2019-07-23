@@ -75,7 +75,9 @@ Don't want to Heat up your Machine here are the Solution:
 
 * [Using Google Colab](https://colab.research.google.com)
 
+#### Single  Layer Neural Networks 
 
+* 
 
 
  
