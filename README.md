@@ -6,8 +6,6 @@ Welcome to the Udacity-Secure-and-Private-AI-Challenge-Scholar wiki!
 ### Projects :
 * [The OpenMined Project for Secure and Private Ai](https://www.openmined.org)
 
-### Day-1
-Notes : 
  
 #### Section 1 
 Welcome Note and Intro about the Author  
@@ -53,11 +51,17 @@ Takeaway
 - Tensorflow uses Symbolic Programming
 ##### Feature Two (Dynamic Computation Graphing)
 - PyTOrch is defined by Run, System Generate the Graph at the Run Time,easy to debug , input is dynamic , Best Suited for Researchers
--Dynamic Graphs are build at runtime which lets use us standard Python Statement
+- Dynamic Graphs are build at runtime which lets use us standard Python Statement
 - TensorFlow, System Generate the whole graph before running it ,used for distributed compution, and Production and is best suited for Beginners
 
+* Tensors : the Data Structure of PyTorch 
+- Rank 0  : Type  Scaler  : ex [1]
+- Rank 1  : Type  Vectors : ex [1,1]
+- Rank 2  : Type  Matrix  : ex [[1,1],[1,1]]
+- Rank 3  : Type 3 tensor : ex [[[1,1],[1,1]],[[1,1],[1,1]]]
+- Rank n  : N Tensors 
 
-* Tensors : the Data Structure of PyTorch
+
 * NumPy : [NumPy Explained](https://youtu.be/Tkv45wgxlEU) Its a Wrapper around C , Fortran Class , array and Matrices implementation similar to MATLAB
 
 * AutoGrad : --- 
@@ -81,6 +85,8 @@ Don't want to Heat up your Machine here are the Solution:
 
 * 
 
+#### Part 1 - Tensors in Pytorch
+- 
 
  
 
