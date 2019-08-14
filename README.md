@@ -54,7 +54,7 @@ Takeaway
 - Dynamic Graphs are build at runtime which lets use us standard Python Statement
 - TensorFlow, System Generate the whole graph before running it ,used for distributed compution, and Production and is best suited for Beginners
 
-* Tensors : the Data Structure of PyTorch 
+* [Tensors : the Data Structure of PyTorch](https://youtu.be/tIqoI4jGE-w) 
 - Rank 0  : Type  Scaler  : ex [1]
 - Rank 1  : Type  Vectors : ex [1,1]
 - Rank 2  : Type  Matrix  : ex [[1,1],[1,1]]
