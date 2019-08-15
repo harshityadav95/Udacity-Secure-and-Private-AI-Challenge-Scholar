@@ -44,11 +44,13 @@ Takeaway
 - Pytorch was made from Deep Learning Framework Torch which used the LUA Programming Language
 - LUA has a high entry barrier, dosent have Modularity
 - Its Impletmentation in Pythone made it call as PyTorch
+
 ##### Feature One (Imperative Programming)
 - Difference between Imperative and Declarative Programming
 - Imperative Programming : Performs computation as you type it (much of Python),more effecient due to safe value reusability 
 - Symbolic Programming : Generate Symbolic Graph and Computation perform at the end of function (C++)
 - Tensorflow uses Symbolic Programming
+
 ##### Feature Two (Dynamic Computation Graphing)
 - PyTOrch is defined by Run, System Generate the Graph at the Run Time,easy to debug , input is dynamic , Best Suited for Researchers
 - Dynamic Graphs are build at runtime which lets use us standard Python Statement
@@ -65,9 +67,11 @@ Takeaway
 * NumPy : [NumPy Explained](https://youtu.be/Tkv45wgxlEU) Its a Wrapper around C , Fortran Class , array and Matrices implementation similar to MATLAB
 
 * AutoGrad : --- 
-* Gradients for Training Neural Network :  ---
-* Validation : ---
-* Transfer Learning : --- 
+* Gradients for Training Neural Network :  [Video](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3&t=0s)
+* Validation : 
+* Transfer Learning :
+* Activation Function : ReLU or Sigmoid activation function  
+
 
 
 ### Setting up a Notebook (Cloud)
