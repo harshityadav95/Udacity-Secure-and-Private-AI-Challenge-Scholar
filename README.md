@@ -100,3 +100,13 @@ Don't want to Heat up your Machine here are the Solution:
 Online Free Courses
 * [Deep Learning and Other Courses by Stanford](https://lagunita.stanford.edu/)  
 * [Introduction to Deep Learning at MIT](http://introtodeeplearning.com/)
+
+
+#### Sequence 
+
+- First Watch the Video 1 of the 3Blue1Brown on Machine Learning 
+- Then open the Notebook 1 and read until you encounter the word gradient and weights
+- Now watch the remaining video 2 and 3 from 3Blue1Brown S2 video on Youtube  
+- Complete Part 1 notebook 1 With Sample Code as Code 1 and Code 2 in Code Folder
+- Start the Notebook 2 and running the Code Snippets Side by Side on the Google Colab
+- As soon as you Encounter the SoftMax Function Look up the Term and Try to wrap you Head around the Softmax funtion of what its trying to do by reading the Excersise of the Softmax function in Part 2
