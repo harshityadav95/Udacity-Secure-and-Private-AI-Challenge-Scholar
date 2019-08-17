@@ -7,31 +7,24 @@ Welcome to the Udacity-Secure-and-Private-AI-Challenge-Scholar wiki!
 * [The OpenMined Project for Secure and Private Ai](https://www.openmined.org)
 
  
-#### Section 1 
-Welcome Note and Intro about the Author  
-
-#### Section 2
-About PyTorch and this lesson  
 
 #### [Deep Learning Frameworks](https://youtu.be/SJldOOs4vB8)
 - Tensorflow powered by Google ,Tensorboard , Tensorflow lite
 - PyTorch powered by Facebook, easy to debug, Modular, TensorBoardX
 - Caffe2+Pytorch is similar to TensorflowLite
 
-### Keras : [Explanation])(https://youtu.be/j_pJmXJwMLA) 
+### What are Keras : [Explanation])(https://youtu.be/j_pJmXJwMLA) 
 - Keras is an Interface that wraps up high level frameworks like TensorFlow, Theano , CNTK 
 - How it Works , You Define it -> Compile it -> Fit Network -> Evaluate Network -> Make Prediction
 -Easiest way to get started followed by PyTorch
 
 
-### ....
+### Other Frameworks
 - CNTK : Microsoft (Cognitive tool kit),No Convential Open Source License  
 - MXNet: Mixed Programming paradigm (Imperative +Declarative)
 - Chainer : Supported by IBM , Intel 
 - DL4J : Machine Learning for JAVA World
 - ONIX : Open Neural Network Exchange Format (Facebook + Microsoft) for Interoperability.
-
-Takeaway
 - For Beginners use Keras
 - For Production on GCP- TensorFlow
 - For Research -Pytorch , SONNET
@@ -70,36 +63,17 @@ Takeaway
 * Gradients for Training Neural Network :  [Video](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=3&t=0s)
 * Validation : 
 * Transfer Learning :
-* Activation Function : ReLU or Sigmoid activation function  
+* Activation Function : ReLU or Sigmoid activation function or TanH , Why do we need them [Video](https://youtu.be/-7scQpJT7uo)
+* BackPropogation : [Back Propogation in 5 Minutes](https://www.youtube.com/watch?v=q555kfIFUCM)
 
 
 
-### Setting up a Notebook (Cloud)
-Don't want to Heat up your Machine here are the Solution: 
-
-* [Source Code Github Repo](https://github.com/udacity/deep-learning-v2-pytorch)
-
-* [Using Azure Notebook](https://blogs.msdn.microsoft.com/uk_faculty_connection/2019/02/12/using-pytorch-with-azure/)
-
-* [Using Google Colab](https://colab.research.google.com)
 
 
 
-#### Single  Layer Neural Networks 
-
-* 
-
-#### Part 1 - Tensors in Pytorch
-- 
-
- 
 
 
-### Resources :  
 
-Online Free Courses
-* [Deep Learning and Other Courses by Stanford](https://lagunita.stanford.edu/)  
-* [Introduction to Deep Learning at MIT](http://introtodeeplearning.com/)
 
 
 #### Sequence 
@@ -110,3 +84,24 @@ Online Free Courses
 - Complete Part 1 notebook 1 With Sample Code as Code 1 and Code 2 in Code Folder
 - Start the Notebook 2 and running the Code Snippets Side by Side on the Google Colab
 - As soon as you Encounter the SoftMax Function Look up the Term and Try to wrap you Head around the Softmax funtion of what its trying to do by reading the Excersise of the Softmax function in Part 2
+- 
+
+
+
+
+
+
+
+### Resources :  
+
+Online Free Courses
+* [Deep Learning and Other Courses by Stanford](https://lagunita.stanford.edu/)  
+* [Introduction to Deep Learning at MIT](http://introtodeeplearning.com/)
+
+
+
+### Setting up a Notebook (Cloud)
+Don't want to Heat up your Machine here are the Solution: 
+* [Source Code Github Repo](https://github.com/udacity/deep-learning-v2-pytorch)
+* [Using Azure Notebook](https://blogs.msdn.microsoft.com/uk_faculty_connection/2019/02/12/using-pytorch-with-azure/)
+* [Using Google Colab](https://colab.research.google.com)
